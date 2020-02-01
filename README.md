@@ -3,3 +3,5 @@
 
 
 适合新手，主要的是前台对api的调用及mock的使用（axios的使用）
+
+src -> view -> lib -> LibHome.vue
